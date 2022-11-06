@@ -1,0 +1,55 @@
+.import/.gdignore
+.import/Bat.png-f96901bc1c3cdf1656562ba316a8cf81.md5
+.import/Bat.png-f96901bc1c3cdf1656562ba316a8cf81.stex
+.import/Bush.png-3b1246e79517a0f5d8efd08de7e03e52.md5
+.import/Bush.png-3b1246e79517a0f5d8efd08de7e03e52.stex
+.import/CliffTileset.png-61f5cb63a2c9334317ed00e49e97cf4d.md5
+.import/CliffTileset.png-61f5cb63a2c9334317ed00e49e97cf4d.stex
+.import/DirtTileset.png-f83d297b0d59efd053b305e26e615e5b.md5
+.import/DirtTileset.png-f83d297b0d59efd053b305e26e615e5b.stex
+.import/EnemyDeathEffect.png-364d575faa1db025b5df9640124eb149.md5
+.import/EnemyDeathEffect.png-364d575faa1db025b5df9640124eb149.stex
+.import/EnemyDie.wav-1b72ef3264582da065f46b3940f0e3ab.md5
+.import/EnemyDie.wav-1b72ef3264582da065f46b3940f0e3ab.sample
+.import/Evade.wav-14ab87d9cc1bab00cbd0b9cac3c55102.md5
+.import/Evade.wav-14ab87d9cc1bab00cbd0b9cac3c55102.sample
+.import/Grass.png-ee046b2fd98d124ab227ad9f4dffd544.md5
+.import/Grass.png-ee046b2fd98d124ab227ad9f4dffd544.stex
+.import/GrassBackground.png-946d57b4d4f1f3c622b7d00d86236345.md5
+.import/GrassBackground.png-946d57b4d4f1f3c622b7d00d86236345.stex
+.import/GrassEffect.png-cab7207f198b6dc4f48d4d3452ec7001.md5
+.import/GrassEffect.png-cab7207f198b6dc4f48d4d3452ec7001.stex
+.import/HeartUIEmpty.png-607a76dc9c9961745cd03b7aff316048.md5
+.import/HeartUIEmpty.png-607a76dc9c9961745cd03b7aff316048.stex
+.import/HeartUIFull.png-fd1c769fbba71f46464a191ccab8af4c.md5
+.import/HeartUIFull.png-fd1c769fbba71f46464a191ccab8af4c.stex
+.import/Hit.wav-063104c306475686bdcf6255fd94fd32.md5
+.import/Hit.wav-063104c306475686bdcf6255fd94fd32.sample
+.import/HitEffect.png-7a5f13d24019b5709242a250e93d832e.md5
+.import/HitEffect.png-7a5f13d24019b5709242a250e93d832e.stex
+.import/Hurt.wav-42a40c6128afeb8392e443a1e6a0e439.md5
+.import/Hurt.wav-42a40c6128afeb8392e443a1e6a0e439.sample
+.import/icon.png-487276ed1e3a0c39cad0279d744ee560.md5
+.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex
+.import/LargeShadow.png-34055f2ebf55fccf008e48acc01365cf.md5
+.import/LargeShadow.png-34055f2ebf55fccf008e48acc01365cf.stex
+.import/MediumShadow.png-c5ce8af1e7b5dca61aef4ae40d7d7777.md5
+.import/MediumShadow.png-c5ce8af1e7b5dca61aef4ae40d7d7777.stex
+.import/Menu Move.wav-faadae18dc3692dbd18e472f339a9a23.md5
+.import/Menu Move.wav-faadae18dc3692dbd18e472f339a9a23.sample
+.import/Menu Select.wav-515f5d599c2932b0f4d0a1089bfb2f5b.md5
+.import/Menu Select.wav-515f5d599c2932b0f4d0a1089bfb2f5b.sample
+.import/Music.mp3-1deb8c65bbc571c5b9b0b6e00a84cd09.md5
+.import/Music.mp3-1deb8c65bbc571c5b9b0b6e00a84cd09.mp3str
+.import/Pause.wav-aed3517e66b42152901f82ebb886faca.md5
+.import/Pause.wav-aed3517e66b42152901f82ebb886faca.sample
+.import/Player.png-1cdd804a9b0fdcfc546bbabf40de7758.md5
+.import/Player.png-1cdd804a9b0fdcfc546bbabf40de7758.stex
+.import/SmallShadow.png-1a381e678f26f4d8d2f9304109910594.md5
+.import/SmallShadow.png-1a381e678f26f4d8d2f9304109910594.stex
+.import/Swipe.wav-cfebfd3293576eaba0669bbef1117c7a.md5
+.import/Swipe.wav-cfebfd3293576eaba0669bbef1117c7a.sample
+.import/Tree.png-a5a8417259442f99ce0501cb091b7eff.md5
+.import/Tree.png-a5a8417259442f99ce0501cb091b7eff.stex
+.import/Unpause.wav-cfa4c9259dc82cbd04a7a3f18931b6c6.md5
+.import/Unpause.wav-cfa4c9259dc82cbd04a7a3f18931b6c6.sample
