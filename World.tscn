@@ -1,4 +1,4 @@
-[gd_scene load_steps=56 format=2]
+[gd_scene load_steps=57 format=2]
 
 [ext_resource path="res://Assets/World/Bush.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Assets/Player/Player.tscn" type="PackedScene" id=2]
@@ -6,6 +6,7 @@
 [ext_resource path="res://Assets/World/DirtTileset.png" type="Texture" id=4]
 [ext_resource path="res://Assets/World/CliffTileset.png" type="Texture" id=5]
 [ext_resource path="res://Assets/World/Grass.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Assets/Enemies/Bat.tscn" type="PackedScene" id=7]
 
 [sub_resource type="TileSet" id=1]
 0/name = "DirtTileset.png 0"
@@ -582,3 +583,9 @@ position = Vector2( 47, 155 )
 
 [node name="Bush3" parent="YSort/Bushes" instance=ExtResource( 1 )]
 position = Vector2( 46, 65 )
+
+[node name="Bat" parent="YSort" instance=ExtResource( 7 )]
+position = Vector2( 24, 112 )
+
+[node name="Bat2" parent="YSort" instance=ExtResource( 7 )]
+position = Vector2( 168, 24 )
